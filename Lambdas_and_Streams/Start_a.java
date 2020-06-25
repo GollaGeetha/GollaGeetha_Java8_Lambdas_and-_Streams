@@ -2,7 +2,7 @@ package com.epam;
 
 import java.util.stream.Stream;
 
-public class Remove_a {
+public class Start_a {
 
 	public static void main(String[] args) {
 		
